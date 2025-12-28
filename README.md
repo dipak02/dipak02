@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍 Crafting Re-Collect Market, a growing web platform<br>🤝 Actively contributing to and collaborating on Open-Source projects<br>📚 Currently deepening my knowledge of Django REST Framework (DRF)<br>💬 Feel free to ask me about Django, React & Freelancing<br>💬 Django • React • Freelancing
+🌍 Crafting <b>Re-Collect Market</b>, a growing web platform<br>🤝 Actively contributing to and collaborating on Open-Source projects<br>📚 Currently deepening my knowledge of Django REST Framework (DRF)<br>💬 Feel free to ask me about Django, React & Freelancing<br>💬 Django • React • Freelancing
 
 
 ## 🌐 Socials:
